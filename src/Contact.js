@@ -10,7 +10,7 @@ function generateCaptcha() {
               
   const captchaInput = document.getElementById('captcha-input');
   const captchaText = document.getElementById('captcha-text');
-  const refreshButton = document.getElementById('refresh-captcha');
+  const refreshButton = document.getElementById('refresh');
               
   function refreshCaptcha() {
     const newCaptcha = generateCaptcha();
