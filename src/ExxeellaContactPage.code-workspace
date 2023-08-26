@@ -8,6 +8,7 @@
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "ExxeellaContactPage"
+		"liveServer.settings.multiRootWorkspaceName": "ExxeellaContactPage",
+		"liveServer.settings.port": 5501
 	}
 }
